@@ -3,7 +3,8 @@
 //
 
 import CrackStationWrapper
-import CryptoKit
+// import CryptoKit
+import Crypto
 import XCTest
 
 final class CrackStationTests: XCTestCase {

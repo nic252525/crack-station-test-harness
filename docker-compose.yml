@@ -1,0 +1,7 @@
+services:
+  dev:
+    image: "swiftlang/swift:nightly-focal"
+    volumes:
+      - C:/Users/Samantha/Desktop/CS561/repos/CS561-swift-crack-station/crack-station-test-harness:/code
+    environment:
+      - USER=Samantha
